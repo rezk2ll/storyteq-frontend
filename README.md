@@ -11,11 +11,15 @@
 - ESLint + Prettier
 
 ## how to run (Nodejs 14+):
-the project is hosted at vercel at [https://storyteq-frontend.vercel.app/](https://storyteq-frontend.vercel.app/) or you can run the project locally using:
+the project is hosted at vercel at [https://storyteq-frontend.vercel.app/](https://storyteq-frontend.vercel.app/).
+
+you can also run the project locally after installing it ( described in the next section ):
 
 ```
 npm run dev
 ```
+
+the project will be available at [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ## Project Setup
 
