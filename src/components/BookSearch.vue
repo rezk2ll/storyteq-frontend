@@ -23,7 +23,7 @@ const results = computed(
 </script>
 <template>
   <div
-    class="w-full mx-auto rounded-lg bg-white shadow-xl p-5 text-gray-800 h-44"
+    class="w-full mx-auto rounded-lg bg-white shadow-xl p-5 text-gray-800 h-48"
     style="max-width: 800px"
   >
     <h1 class="text-2xl font-semibold pb-2">Book Search</h1>
