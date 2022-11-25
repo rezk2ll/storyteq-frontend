@@ -5,7 +5,7 @@ import BookSearch from "./components/BookSearch.vue";
 
 <template>
   <div
-    class="min-w-screen min-h-screen bg-gray-800 flex flex-col space-y-2 items-center justify-center px-5 py-5"
+    class="min-w-screen min-h-screen flex flex-col space-y-32 items-center justify-center px-5 py-5 bg-gradient-to-bl from-sky-100 via-purple-300 to-cyan-700"
   >
     <CitySearch />
     <BookSearch />

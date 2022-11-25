@@ -23,10 +23,10 @@ const results = computed(
 </script>
 <template>
   <div
-    class="w-full mx-auto rounded-lg bg-white shadow p-5 text-gray-800 h-40"
+    class="w-full mx-auto rounded-lg bg-white shadow-xl p-5 text-gray-800 h-44"
     style="max-width: 800px"
   >
-    <h1>Book Search</h1>
+    <h1 class="text-2xl font-semibold pb-2">Book Search</h1>
     <AutoComplete v-model="searchString" :results="results" />
   </div>
 </template>

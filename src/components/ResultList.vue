@@ -20,7 +20,7 @@ const props = defineProps<{
   </div>
   <div
     v-else
-    class="p-4 text-sm text-gray-700 bg-gray-100 rounded-lg dark:bg-gray-700 dark:text-gray-300 my-4"
+    class="p-4 text-sm text-gray-700 bg-gray-100 rounded-lg dark:bg-gray-700 dark:text-gray-300 my-3"
     role="alert"
   >
     <span class="font-medium">bummer!</span> no results found.

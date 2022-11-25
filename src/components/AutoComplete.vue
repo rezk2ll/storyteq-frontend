@@ -30,7 +30,7 @@ onMounted(() => {
     />
     <div v-if="modelValue && modelValue.length">
       <div
-        class="p-4 mb-4 text-sm text-yellow-700 bg-yellow-100 rounded-lg dark:bg-yellow-200 dark:text-yellow-800 my-4"
+        class="p-4 mb-4 text-sm text-yellow-700 bg-yellow-100 rounded-lg dark:bg-yellow-200 dark:text-yellow-800 my-3"
         role="alert"
         v-if="modelValue.length < 3"
       >
